@@ -22,3 +22,17 @@ The Plant Village dataset is a well-known dataset used for plant disease detecti
 
 The dataset can be downloaded from below link- https://www.kaggle.com/datasets/emmarex/plantdisease
 
+The below image show distribution of different species with different diseases in Plant Village Dataset: 
+
+![distribution of different species with diseases in datasets](https://github.com/saurabhsingh31/Plant_Pathology_Plant_Disease_Detection/assets/41019385/1888b70a-4945-48b1-96ef-a88a7acc013b)
+
+The below image shows sample images of plant diseases from Plant Village Dataset:
+
+![Sample images from plant village dataset](https://github.com/saurabhsingh31/Plant_Pathology_Plant_Disease_Detection/assets/41019385/65238c3c-e663-46c7-bc75-5d7d38e16de4)
+
+## Result
+The below images show result of our model:
+![accuracy](https://github.com/saurabhsingh31/Plant_Pathology_Plant_Disease_Detection/assets/41019385/b13dadc4-d57b-4ab4-a20e-c878492f78cf)
+![loss](https://github.com/saurabhsingh31/Plant_Pathology_Plant_Disease_Detection/assets/41019385/28c50609-2544-4a9d-8e4b-1b7620824259)
+
+
